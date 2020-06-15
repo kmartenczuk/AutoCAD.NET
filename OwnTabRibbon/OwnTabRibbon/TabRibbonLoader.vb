@@ -3,7 +3,7 @@
 'info@cadcenter.pl
 'Date: 6/15/2020
 'OwnTabRibbon
-'*********************************************************
+'**********************************************************
 Imports Autodesk.Windows
 Imports Autodesk.AutoCAD.Runtime
 Imports Autodesk.AutoCAD.EditorInput
