@@ -2,7 +2,7 @@
 'info@cadcenter.pl
 'Autodesk Authorized Developer Kamil Martenczuk (ADN ID DEPL2710)
 '6/16/2020
-'Stairs3D Genrator
+'3DStairsGenrator
 
 Imports Autodesk.AutoCAD.Runtime
 Imports Autodesk.AutoCAD.EditorInput
